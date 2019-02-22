@@ -1,0 +1,23 @@
+name = "butler-alt"
+description = "A robust, elegant dark theme"
+license = "MIT"
+homepage = "https://github.com/DirectorX/butler-alt"
+min_version = "0.1.0"
+demo = "https://directorx.github.io/butler-alt/"
+
+[extra]
+butler_nav_bar = [
+    {url = "$BASE_URL/", name = "home"},
+    {url = "$BASE_URL/blog", name = "blog"},
+    {url = "$BASE_URL/links", name = "links"},
+    {url = "$BASE_URL/code", name = "code"},
+]
+
+[author]
+name = "DirectorX"
+repo = "https://github.com/DirectorX/butler-alt"
+
+[original]
+name = "Shaleen Jain"
+homepage = "https://shaleenjain.com"
+repo = "https://github.com/shalzz/butler"
