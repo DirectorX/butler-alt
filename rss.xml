@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xml" href="https://directorx.github.io/butler-alt/feed.xslt.xml"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <generator uri="https://getzola.org/" >Zola</generator>
+  <link href="https://directorx.github.io/butler-alt/rss.xml" rel="self" type="application/atom+xml" />
+  <link href="https:&#x2f;&#x2f;directorx.github.io&#x2f;butler-alt" rel="alternate" type="text/html" xml:lang="en"/>
+  <updated>Sun, 01 Jul 2018 00:00:00 +0000</updated>
+  <id>https:&#x2f;&#x2f;directorx.github.io&#x2f;butler-alt</id>
+
+  <title type="html"></title>
+
+  <subtitle></subtitle>
+
+  
+    <author>
+        <name>The Dark Wall</name>
+      
+      
+    </author>
+  
+
+  
+    <entry xml:lang="en">
+      <title type="html">First post</title>
+      <link href="https://directorx.github.io/butler-alt/blog/first-post/" rel="alternate" type="text/html" title="First post" />
+      <published>Sun, 01 Jul 2018 00:00:00 +0000</published>
+      <updated>Sun, 01 Jul 2018 00:00:00 +0000</updated>
+      <id>https://directorx.github.io/butler-alt/blog/first-post/</id>
+      <content type="html" xml:base="https://directorx.github.io/butler-alt/blog/first-post/">&lt;h2 id=&quot;title&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#title&quot; aria-label=&quot;Anchor link for: title&quot;&gt;🔗&lt;&#x2f;a&gt;Title&lt;&#x2f;h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
+in culpa qui officia deserunt mollit anim id est laborum.&lt;&#x2f;p&gt;
+&lt;p id=&quot;zola-continue-reading&quot;&gt;&lt;a name=&quot;continue-reading&quot;&gt;&lt;&#x2f;a&gt;&lt;&#x2f;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
+in culpa qui officia deserunt mollit anim id est laborum.&lt;&#x2f;p&gt;
+</content>
+
+      
+
+      
+        <summary type="html">&lt;h2 id=&quot;title&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#title&quot; aria-label=&quot;Anchor link for: title&quot;&gt;🔗&lt;&#x2f;a&gt;Title&lt;&#x2f;h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
+in culpa qui officia deserunt mollit anim id est laborum.&lt;&#x2f;p&gt;
+</summary>
+      
+
+      
+
+    </entry>
+  
+    <entry xml:lang="en">
+      <title type="html">Example content</title>
+      <link href="https://directorx.github.io/butler-alt/blog/example-content/" rel="alternate" type="text/html" title="Example content" />
+      <published>Tue, 19 May 2015 00:00:00 +0000</published>
+      <updated>Tue, 19 May 2015 00:00:00 +0000</updated>
+      <id>https://directorx.github.io/butler-alt/blog/example-content/</id>
+      <content type="html" xml:base="https://directorx.github.io/butler-alt/blog/example-content/">&lt;h2 id=&quot;inline-html-elements&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#inline-html-elements&quot; aria-label=&quot;Anchor link for: inline-html-elements&quot;&gt;🔗&lt;&#x2f;a&gt;Inline HTML elements&lt;&#x2f;h2&gt;
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https:&#x2f;&#x2f;developer.mozilla.org&#x2f;en-US&#x2f;docs&#x2f;Web&#x2f;HTML&#x2f;Element&quot;&gt;Mozilla Developer Network&lt;&#x2f;a&gt;.&lt;&#x2f;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;To bold text&lt;&#x2f;strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;&#x2f;code&gt;.&lt;&#x2f;li&gt;
+&lt;li&gt;&lt;em&gt;To italicize text&lt;&#x2f;em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;&#x2f;code&gt;.&lt;&#x2f;li&gt;
+&lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;&#x2f;abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;&#x2f;code&gt;, with an optional &lt;code&gt;title&lt;&#x2f;code&gt; attribute for the full phrase.&lt;&#x2f;li&gt;
+&lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;&#x2f;cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;&#x2f;code&gt;.&lt;&#x2f;li&gt;
+&lt;li&gt;&lt;del&gt;Deleted&lt;&#x2f;del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;&#x2f;code&gt; and &lt;ins&gt;inserted&lt;&#x2f;ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;&#x2f;code&gt;.&lt;&#x2f;li&gt;
+&lt;li&gt;Superscript &lt;sup&gt;text&lt;&#x2f;sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;&#x2f;code&gt; and subscript &lt;sub&gt;text&lt;&#x2f;sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;&#x2f;code&gt;.&lt;&#x2f;li&gt;
+&lt;&#x2f;ul&gt;
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;&#x2f;p&gt;
+&lt;p id=&quot;zola-continue-reading&quot;&gt;&lt;a name=&quot;continue-reading&quot;&gt;&lt;&#x2f;a&gt;&lt;&#x2f;p&gt;
+&lt;h2 id=&quot;footnotes&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#footnotes&quot; aria-label=&quot;Anchor link for: footnotes&quot;&gt;🔗&lt;&#x2f;a&gt;Footnotes&lt;&#x2f;h2&gt;
+&lt;p&gt;Footnotes are supported as part of the Markdown syntax. Here&#x27;s one in action. Clicking this number&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#fn-sample_footnote&quot;&gt;1&lt;&#x2f;a&gt;&lt;&#x2f;sup&gt; will lead you to a footnote. The syntax looks like:&lt;&#x2f;p&gt;
+&lt;pre style=&quot;background-color:#272822;&quot;&gt;
+&lt;span style=&quot;color:#f8f8f2;&quot;&gt;Clicking this number[^fn-sample_footnote]
+&lt;&#x2f;span&gt;&lt;&#x2f;pre&gt;
+&lt;p&gt;Each footnote needs the &lt;code&gt;^fn-&lt;&#x2f;code&gt; prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:&lt;&#x2f;p&gt;
+&lt;pre style=&quot;background-color:#272822;&quot;&gt;
+&lt;span style=&quot;color:#f8f8f2;&quot;&gt;[^fn-sample_footnote]: Handy! Now click the return link to go back.
+&lt;&#x2f;span&gt;&lt;&#x2f;pre&gt;
+&lt;p&gt;You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.&lt;&#x2f;p&gt;
+&lt;h2 id=&quot;heading&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading&quot; aria-label=&quot;Anchor link for: heading&quot;&gt;🔗&lt;&#x2f;a&gt;Heading&lt;&#x2f;h2&gt;
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;&#x2f;p&gt;
+&lt;h3 id=&quot;code&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#code&quot; aria-label=&quot;Anchor link for: code&quot;&gt;🔗&lt;&#x2f;a&gt;Code&lt;&#x2f;h3&gt;
+&lt;p&gt;Inline code is available with the &lt;code&gt;&amp;lt;code&amp;gt;&lt;&#x2f;code&gt; element. Snippets of multiple lines of code are supported through Pygments. Longer lines will automatically scroll horizontally when needed.&lt;&#x2f;p&gt;
+&lt;pre style=&quot;background-color:#272822;&quot;&gt;
+&lt;span style=&quot;color:#75715e;&quot;&gt;&#x2f;&#x2f; Example can be run directly in your JavaScript console
+
+&#x2f;&#x2f; Create a function that takes two arguments and returns the sum of those arguments
+&lt;&#x2f;span&gt;&lt;span style=&quot;font-style:italic;color:#66d9ef;&quot;&gt;var &lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;adder &lt;&#x2f;span&gt;&lt;span style=&quot;color:#f92672;&quot;&gt;= new &lt;&#x2f;span&gt;&lt;span style=&quot;font-style:italic;color:#66d9ef;&quot;&gt;Function&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;(&lt;&#x2f;span&gt;&lt;span style=&quot;color:#e6db74;&quot;&gt;&amp;quot;a&amp;quot;&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;, &lt;&#x2f;span&gt;&lt;span style=&quot;color:#e6db74;&quot;&gt;&amp;quot;b&amp;quot;&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;, &lt;&#x2f;span&gt;&lt;span style=&quot;color:#e6db74;&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;);
+
+&lt;&#x2f;span&gt;&lt;span style=&quot;color:#75715e;&quot;&gt;&#x2f;&#x2f; Call the function
+&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;adder(&lt;&#x2f;span&gt;&lt;span style=&quot;color:#ae81ff;&quot;&gt;2&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;, &lt;&#x2f;span&gt;&lt;span style=&quot;color:#ae81ff;&quot;&gt;6&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;);
+&lt;&#x2f;span&gt;&lt;span style=&quot;color:#75715e;&quot;&gt;&#x2f;&#x2f; &amp;gt; 8
+&lt;&#x2f;span&gt;&lt;&#x2f;pre&gt;
+&lt;p&gt;You may also optionally show code snippets with line numbers. Add &lt;code&gt;linenos&lt;&#x2f;code&gt; to the Pygments tags.&lt;&#x2f;p&gt;
+&lt;pre style=&quot;background-color:#272822;&quot;&gt;
+&lt;span style=&quot;color:#75715e;&quot;&gt;&#x2f;&#x2f; Example can be run directly in your JavaScript console
+
+&#x2f;&#x2f; Create a function that takes two arguments and returns the sum of those arguments
+&lt;&#x2f;span&gt;&lt;span style=&quot;font-style:italic;color:#66d9ef;&quot;&gt;var &lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;adder &lt;&#x2f;span&gt;&lt;span style=&quot;color:#f92672;&quot;&gt;= new &lt;&#x2f;span&gt;&lt;span style=&quot;font-style:italic;color:#66d9ef;&quot;&gt;Function&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;(&lt;&#x2f;span&gt;&lt;span style=&quot;color:#e6db74;&quot;&gt;&amp;quot;a&amp;quot;&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;, &lt;&#x2f;span&gt;&lt;span style=&quot;color:#e6db74;&quot;&gt;&amp;quot;b&amp;quot;&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;, &lt;&#x2f;span&gt;&lt;span style=&quot;color:#e6db74;&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;);
+
+&lt;&#x2f;span&gt;&lt;span style=&quot;color:#75715e;&quot;&gt;&#x2f;&#x2f; Call the function
+&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;adder(&lt;&#x2f;span&gt;&lt;span style=&quot;color:#ae81ff;&quot;&gt;2&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;, &lt;&#x2f;span&gt;&lt;span style=&quot;color:#ae81ff;&quot;&gt;6&lt;&#x2f;span&gt;&lt;span style=&quot;color:#f8f8f2;&quot;&gt;);
+&lt;&#x2f;span&gt;&lt;span style=&quot;color:#75715e;&quot;&gt;&#x2f;&#x2f; &amp;gt; 8
+&lt;&#x2f;span&gt;&lt;&#x2f;pre&gt;
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;&#x2f;p&gt;
+&lt;h3 id=&quot;gists-via-github-pages&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#gists-via-github-pages&quot; aria-label=&quot;Anchor link for: gists-via-github-pages&quot;&gt;🔗&lt;&#x2f;a&gt;Gists via GitHub Pages&lt;&#x2f;h3&gt;
+&lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;&#x2f;p&gt;
+&lt;div &gt;
+    &lt;script src=&quot;https:&amp;#x2f;&amp;#x2f;gist.github.com&amp;#x2f;shalzz&amp;#x2f;281559a80af7adb5ab71320f5a802f94.js&quot;&gt;&lt;&#x2f;script&gt;
+&lt;&#x2f;div&gt;
+&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;&#x2f;p&gt;
+&lt;h3 id=&quot;lists&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#lists&quot; aria-label=&quot;Anchor link for: lists&quot;&gt;🔗&lt;&#x2f;a&gt;Lists&lt;&#x2f;h3&gt;
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;&#x2f;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;&#x2f;li&gt;
+&lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;&#x2f;li&gt;
+&lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;&#x2f;li&gt;
+&lt;&#x2f;ul&gt;
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;&#x2f;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;&#x2f;li&gt;
+&lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;&#x2f;li&gt;
+&lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;&#x2f;li&gt;
+&lt;&#x2f;ol&gt;
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;&#x2f;p&gt;
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;&#x2f;dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;&#x2f;dd&gt;
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;&#x2f;dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;&#x2f;dd&gt;
+  &lt;dt&gt;JavaScript (JS)&lt;&#x2f;dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;&#x2f;dd&gt;
+&lt;&#x2f;dl&gt;
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;&#x2f;p&gt;
+&lt;h3 id=&quot;images&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#images&quot; aria-label=&quot;Anchor link for: images&quot;&gt;🔗&lt;&#x2f;a&gt;Images&lt;&#x2f;h3&gt;
+&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;&#x2f;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2f;&#x2f;placehold.it&#x2f;800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; &#x2f;&gt;
+&lt;img src=&quot;http:&#x2f;&#x2f;placehold.it&#x2f;400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; &#x2f;&gt;
+&lt;img src=&quot;http:&#x2f;&#x2f;placehold.it&#x2f;200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; &#x2f;&gt;&lt;&#x2f;p&gt;
+&lt;h3 id=&quot;tables&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#tables&quot; aria-label=&quot;Anchor link for: tables&quot;&gt;🔗&lt;&#x2f;a&gt;Tables&lt;&#x2f;h3&gt;
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;&#x2f;p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;&#x2f;th&gt;
+      &lt;th&gt;Upvotes&lt;&#x2f;th&gt;
+      &lt;th&gt;Downvotes&lt;&#x2f;th&gt;
+    &lt;&#x2f;tr&gt;
+  &lt;&#x2f;thead&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;&#x2f;td&gt;
+      &lt;td&gt;21&lt;&#x2f;td&gt;
+      &lt;td&gt;23&lt;&#x2f;td&gt;
+    &lt;&#x2f;tr&gt;
+  &lt;&#x2f;tfoot&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alice&lt;&#x2f;td&gt;
+      &lt;td&gt;10&lt;&#x2f;td&gt;
+      &lt;td&gt;11&lt;&#x2f;td&gt;
+    &lt;&#x2f;tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bob&lt;&#x2f;td&gt;
+      &lt;td&gt;4&lt;&#x2f;td&gt;
+      &lt;td&gt;3&lt;&#x2f;td&gt;
+    &lt;&#x2f;tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charlie&lt;&#x2f;td&gt;
+      &lt;td&gt;7&lt;&#x2f;td&gt;
+      &lt;td&gt;9&lt;&#x2f;td&gt;
+    &lt;&#x2f;tr&gt;
+  &lt;&#x2f;tbody&gt;
+&lt;&#x2f;table&gt;
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;&#x2f;p&gt;
+&lt;hr &#x2f;&gt;
+&lt;p&gt;Want to see something else added? &lt;a href=&quot;https:&#x2f;&#x2f;github.com&#x2f;DirectorX&#x2f;butler-alt&#x2f;issues&quot;&gt;Open an issue.&lt;&#x2f;a&gt;&lt;&#x2f;p&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;fn-sample_footnote&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2f;sup&gt;
+&lt;p&gt;Handy! Now click the return link to go back.&lt;&#x2f;p&gt;
+&lt;&#x2f;div&gt;
+</content>
+
+      
+
+      
+        <summary type="html">&lt;h2 id=&quot;inline-html-elements&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#inline-html-elements&quot; aria-label=&quot;Anchor link for: inline-html-elements&quot;&gt;🔗&lt;&#x2f;a&gt;Inline HTML elements&lt;&#x2f;h2&gt;
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https:&#x2f;&#x2f;developer.mozilla.org&#x2f;en-US&#x2f;docs&#x2f;Web&#x2f;HTML&#x2f;Element&quot;&gt;Mozilla Developer Network&lt;&#x2f;a&gt;.&lt;&#x2f;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;To bold text&lt;&#x2f;strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;&#x2f;code&gt;.&lt;&#x2f;li&gt;
+&lt;li&gt;&lt;em&gt;To italicize text&lt;&#x2f;em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;&#x2f;code&gt;.&lt;&#x2f;li&gt;
+&lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;&#x2f;abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;&#x2f;code&gt;, with an optional &lt;code&gt;title&lt;&#x2f;code&gt; attribute for the full phrase.&lt;&#x2f;li&gt;
+&lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;&#x2f;cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;&#x2f;code&gt;.&lt;&#x2f;li&gt;
+&lt;li&gt;&lt;del&gt;Deleted&lt;&#x2f;del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;&#x2f;code&gt; and &lt;ins&gt;inserted&lt;&#x2f;ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;&#x2f;code&gt;.&lt;&#x2f;li&gt;
+&lt;li&gt;Superscript &lt;sup&gt;text&lt;&#x2f;sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;&#x2f;code&gt; and subscript &lt;sub&gt;text&lt;&#x2f;sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;&#x2f;code&gt;.&lt;&#x2f;li&gt;
+&lt;&#x2f;ul&gt;
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;&#x2f;p&gt;
+</summary>
+      
+
+      
+
+    </entry>
+  
+</feed>
