@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://shaleenjain.com/sitemap.xml
+Sitemap: https://directorx.github.io/butler-alt/sitemap.xml
